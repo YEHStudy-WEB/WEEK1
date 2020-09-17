@@ -1,6 +1,5 @@
 # WEEK-1
 
 Project. 자기소개 페이지 만들기
-  - HTML, CSS공부를 통해 진행하신 Project를 개인 branch를 생성해 주신 후 업로드 해 주시면 되겠습니다.
-  - 기한 : 9.20(일) 21시 이전
-  
+  - https://jihye00.github.io/YEHSWebStudy.github.io/
+  - 원래 페이지 여러 개 만들어서 한글<->영어 왔다갔다 하게 만들고 싶었는데 방법을 못 찾겠네요...ㅠ
