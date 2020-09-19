@@ -1,0 +1,15 @@
+.tablestyle{
+  border: 1px solid #ee82ee;
+  border-collapse: collapse;
+}
+
+.tdstyle{
+  border: 1px solid #ee82ee;
+}
+td:nth-child(1){
+  width : 150px;
+  text-align: center;
+}
+td:nth-child(2){
+  width: 200px;
+}
